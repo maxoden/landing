@@ -1,0 +1,31 @@
+.card {
+	padding: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 1.0);
+	border-radius: 6px;
+	margin: 20px;
+}
+
+.amelia {
+	width: 175px;
+	height: 250px;
+	border-radius: 8px;
+}
+
+.rita {
+	height: 250px;
+	width: 175px;
+	border-radius: 8px;
+}
+
+.alex {
+	height: 175px;
+	width: 250px;
+	border-radius: 8px;
+}
+
+.ritatext {
+	margin-left: 19px;
+}
